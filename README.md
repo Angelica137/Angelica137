@@ -1,8 +1,6 @@
-# Hello 👋 I am Angelica, a full-stack software engineer and experience designer based in London.
+# Hello 👋 I am Angelica, an experience designer based in London.
 
-I love designing and building products that make a positive contribution to their users. I have worked in a wide variety of problems creating simple solutions that help users achieve their goals.
-
-I am currently enrolled in Founders and Coders' Bootcamp working on my fullstack development skills 👩‍💻
+I love designing and building products that make a positive contribution to their users. I have worked on a wide variety of problems, creating simple solutions that help users achieve their goals.
 
 Have a look around and get in touch! 👾
 
