@@ -1,4 +1,4 @@
-# Hello 👋 I am Angelica, an experience designer based in London.
+# Hello 👋 I am Angelica, a design engineer based in London.
 
 I love designing and building products that make a positive contribution to their users. I have worked on a wide variety of problems, creating simple solutions that help users achieve their goals.
 
